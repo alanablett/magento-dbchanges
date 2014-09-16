@@ -10,7 +10,7 @@
  * markup if it changes from one version to another.
  */
 $blockData = array(
-    'title' => 'Footer Links',
+    'title' => 'Footer Links Company',
     'identifier' => 'footer_links_company',
     'content' => file_get_contents(__DIR__ . '/markup-1.0.1/footer.html'),
     'is_active' => 1,
