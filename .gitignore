@@ -20,6 +20,7 @@
 /httpdocs/app/etc/config.xml
 
 /httpdocs/app/etc/modules/*
+!/httpdocs/app/etc/modules/Shopname_Theme.xml
 
 # Locale
 /httpdocs/app/locale/*

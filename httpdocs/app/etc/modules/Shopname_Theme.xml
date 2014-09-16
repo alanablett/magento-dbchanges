@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Shopname_Theme>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends></depends>
+        </Shopname_Theme>
+    </modules>
+</config>
